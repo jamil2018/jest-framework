@@ -1,4 +1,4 @@
-# Unit Test Demo
+# Jest Framework
 
 A TypeScript project demonstrating unit testing with Jest, featuring utility functions and comprehensive test coverage.
 
